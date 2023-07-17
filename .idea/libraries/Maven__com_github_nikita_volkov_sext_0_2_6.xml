@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.nikita-volkov:sext:0.2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../IDEAmaven/mavendependency_sparc/com/github/nikita-volkov/sext/0.2.6/sext-0.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../IDEAmaven/mavendependency_sparc/com/github/nikita-volkov/sext/0.2.6/sext-0.2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../IDEAmaven/mavendependency_sparc/com/github/nikita-volkov/sext/0.2.6/sext-0.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

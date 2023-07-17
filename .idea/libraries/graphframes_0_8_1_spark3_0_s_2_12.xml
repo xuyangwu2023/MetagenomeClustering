@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="graphframes-0.8.1-spark3.0-s_2.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LizhenShi-sparc/lib/graphframes-0.8.1-spark3.0-s_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sparc-cpp-lib-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LizhenShi-sparc/lib/sparc-cpp-lib-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
