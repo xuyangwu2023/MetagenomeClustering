@@ -4,7 +4,7 @@ Although we named the PSLDS as the metagenomic data clustering method, this mean
 
 I understand the importance of code referencing and knowledge sharing, and I hope that in the future, I will have the opportunity to give back my experience and results to the open source community and developers in general, so that we can jointly promote the progress and development of technology.
 
-[1] Lizhen, S., Xiandong, M., Elizabeth, T., Michael, M., Zhong, W.: Sparc: scalable sequence clustering using Apache spark. Bioinformatics (Oxford, England) 35(5), 760 (2019) 
-[2] Hamid, R., Asgarali, B., Esmaeil, N.: PLDLS: a novel parallel label diffusion and label selection-based community detection algorithm based on spark in social networks. Expert Syst. Appl. 183, 115 (2021)
+[1] Lizhen, S., Xiandong, M., Elizabeth, T., Michael, M., Zhong, W.: Sparc: scalable sequence clustering using Apache spark. Bioinformatics (Oxford, England) 35(5), 760 (2019).
+[2] Hamid, R., Asgarali, B., Esmaeil, N.: PLDLS: a novel parallel label diffusion and label selection-based community detection algorithm based on spark in social networks. Expert Syst. Appl. 183, 115 (2021).
 
 
